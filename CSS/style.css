@@ -1,6 +1,9 @@
 body {
-    background: wheat;
+    background: rgb(218, 212, 201);
 }
 h1 {
+    text-align: center;
+}
+footer {
     text-align: center;
 }
